@@ -1,0 +1,21 @@
+PODS:
+  - test-app (0.1.0)
+  - test-extension (0.1.0)
+
+DEPENDENCIES:
+  - test-app (from `../`)
+  - test-extension (from `../`)
+
+EXTERNAL SOURCES:
+  test-app:
+    :path: "../"
+  test-extension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  test-app: e0d639583fc5fa65ddf4e255a3bb263080a2f0b4
+  test-extension: 18562aae70040416927a7566ceb69514307b4787
+
+PODFILE CHECKSUM: 7d1aa0625b34d6f219306531648e77e65121b4e0
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,11 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'test-extension_Example' do
+  pod 'test-app', :path => '../'
+end
+
+target 'ext' do
+  pod 'test-extension', :path => '../'
+end

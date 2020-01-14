@@ -1,0 +1,6 @@
+framework module test_extension {
+  umbrella header "test-extension-umbrella.h"
+
+  export *
+  module * { export * }
+}

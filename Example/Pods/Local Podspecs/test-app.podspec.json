@@ -1,0 +1,26 @@
+{
+  "name": "test-app",
+  "version": "0.1.0",
+  "summary": "A short description of test-app.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kambala-decapitator/test-extension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kambala-decapitator": "decapitator@ukr.net"
+  },
+  "source": {
+    "git": "https://github.com/kambala-decapitator/test-extension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "test-extension/Classes/**/*",
+  "frameworks": "Foundation",
+  "pod_target_xcconfig": {
+    "GCC_PREPROCESSOR_DEFINITIONS": "MAIN_APP"
+  }
+}
