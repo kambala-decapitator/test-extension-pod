@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of test-app.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/kambala-decapitator/test-extension",
+  "homepage": "https://github.com/kambala-decapitator/test-extension-pod",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "kambala-decapitator": "decapitator@ukr.net"
   },
   "source": {
-    "git": "https://github.com/kambala-decapitator/test-extension.git",
+    "git": "https://github.com/kambala-decapitator/test-extension-pod.git",
     "tag": "0.1.0"
   },
   "platforms": {
